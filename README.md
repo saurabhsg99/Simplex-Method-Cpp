@@ -11,3 +11,13 @@ The goal of this project is to create a C++ program that can solve linear progra
 - **Simplex Algorithm:** Implement the Simplex Algorithm to iteratively improve the solution until an optimal solution is reached. This involves selecting entering and leaving variables, performing pivots, and updating the tableau.
 - **Optimality and Feasibility Checking:** Incorporate checks to determine if the current solution is optimal or if the problem is infeasible. Terminate the algorithm accordingly.
 - **Output:** Display the optimal solution, the objective function value, and any relevant information about the problem's status (optimal, infeasible, unbounded).
+
+
+## Screenshots
+
+<div style = "display = "grid"">
+<img src = "Screenshot 2023-09-19 151245.png"  alt = "Screenshots">
+<img src = "Screenshot 2023-09-19 151255.png"  alt = "Screenshots">
+<img src = "Screenshot 2023-09-19 151305.png"  alt = "Screenshots">
+
+</div>
