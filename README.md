@@ -19,5 +19,4 @@ The goal of this project is to create a C++ program that can solve linear progra
 <img src = "Screenshot 2023-09-19 151245.png"  alt = "Screenshots">
 <img src = "Screenshot 2023-09-19 151255.png"  alt = "Screenshots">
 <img src = "Screenshot 2023-09-19 151305.png"  alt = "Screenshots">
-
 </div>
